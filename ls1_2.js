@@ -1,3 +1,4 @@
+//Задание 2 **
 var name = '';
 var admin = '';
 
